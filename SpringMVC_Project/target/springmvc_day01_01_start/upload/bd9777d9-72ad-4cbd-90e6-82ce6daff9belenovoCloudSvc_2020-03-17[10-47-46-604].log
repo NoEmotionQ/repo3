@@ -1,0 +1,3 @@
+RecordDateTime,ModuleName,ThreadId,FileNameAndLineNum,LogLevel,Description
+10:47:46:609 , CieMyCtrl , 13456 , "LDBoxSrv.cpp : 40" , 4 , _tWinMain()
+10:47:46:611 , CieMyCtrl , 9684 , "LDTaskMgrAdapter.cpp : 73" , 4 , CDispatchTaskWorker::DoWork:initFinished
